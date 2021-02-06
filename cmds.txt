@@ -1,0 +1,2 @@
+kubectl create secret generic jwt-secret --from-literal=JWT_KEY=asdf
+kubectl create secret generic stripe-secret --from-literal=STRIPE_KEY=sk_test_51H7lX7LKWdSwugEQc0AiSTlfKlqkii4lHx6vLXmlPimQepmKtiuNv6znlgwYPm9Vfr4xFrGAmANNIi1o7JQQOZe9008AcpfFiK
